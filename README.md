@@ -107,9 +107,13 @@ Blade HTML CSS JavaScript
 
 </td> </tr> </table> </div>
 📊 GitHub Statistics
-<div align="center"> <a href="https://github.com/zachrrd"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zachrrd&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=4C7F68&icon_color=4C7F68&text_color=666666&bg_color=00000000"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachrrd&layout=compact&hide_border=true&langs_count=8&title_color=4C7F68&text_color=666666&bg_color=00000000"/> </a> </div> <br/> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zachrrd&hide_border=true&background=00000000&ring=4C7F68&fire=4C7F68&currStreakLabel=4C7F68"/> </div>
+<div align="center"> <a href="https://github.com/zachrrd"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zachrrd&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=4C7F68&icon_color=4C7F68&text_color=666666&bg_color=00000000"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachrrd&layout=compact&hide_border=true&langs_count=8&title_color=4C7F68&text_color=666666&bg_color=00000000"/> </a> </div> <br/> <div align="center"> <img src="https://streak-stats.demolab.com/?user=zachrrd&hide_border=true&background=FFFFFF&stroke=4C7F68&ring=4C7F68&fire=4C7F68&currStreakNum=4C7F68&sideNums=4C7F68&currStreakLabel=4C7F68&sideLabels=666666&dates=666666"/> </div>
 🐍 Contribution Activity
-<div align="center"> <img src="https://raw.githubusercontent.com/zachrrd/zachrrd/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> </div>
+<div align="center"> <picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zachrrd/zachrrd/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zachrrd/zachrrd/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/zachrrd/zachrrd/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</picture> </div>
 💻 Currently Building
 <div align="center">
 🚗 Carwash Management System
