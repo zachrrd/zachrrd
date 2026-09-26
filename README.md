@@ -57,25 +57,25 @@ learning new technologies, and building something useful together.
 **Frontend**
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html" width="55"/>
+  <img src="https://skillicons.dev/icons?i=html" width="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://skillicons.dev/icons?i=css" width="55"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=js" width="55"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40"/>
 </a>
 <a href="https://www.typescriptlang.org/">
-  <img src="https://skillicons.dev/icons?i=ts" width="55"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="40"/>
 </a>
 <a href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react" width="55"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40"/>
 </a>
 <a href="https://nextjs.org/">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40"/>
 </a>
 <a href="https://tailwindcss.com/">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
 </a>
 
 <br/><br/>
@@ -83,16 +83,16 @@ learning new technologies, and building something useful together.
 **Backend**
 
 <a href="https://nodejs.org/">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
 </a>
 <a href="https://expressjs.com/">
-  <img src="https://skillicons.dev/icons?i=express" width="55"/>
+  <img src="https://skillicons.dev/icons?i=express" width="40"/>
 </a>
 <a href="https://www.php.net/">
-  <img src="https://skillicons.dev/icons?i=php" width="55"/>
+  <img src="https://skillicons.dev/icons?i=php" width="40"/>
 </a>
 <a href="https://laravel.com/">
-  <img src="https://skillicons.dev/icons?i=laravel" width="55"/>
+  <img src="https://skillicons.dev/icons?i=laravel" width="40"/>
 </a>
 
 <br/><br/>
@@ -100,13 +100,13 @@ learning new technologies, and building something useful together.
 **Database & ORM**
 
 <a href="https://www.postgresql.org/">
-  <img src="https://skillicons.dev/icons?i=postgres" width="55"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="40"/>
 </a>
 <a href="https://www.mysql.com/">
-  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
 </a>
 <a href="https://www.prisma.io/">
-  <img src="https://skillicons.dev/icons?i=prisma" width="55"/>
+  <img src="https://skillicons.dev/icons?i=prisma" width="40"/>
 </a>
 
 <br/><br/>
@@ -114,13 +114,13 @@ learning new technologies, and building something useful together.
 **Tools**
 
 <a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git" width="55"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40"/>
 </a>
 <a href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
 </a>
 <a href="https://code.visualstudio.com/">
-  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
 </a>
 
 <br/><br/>
