@@ -163,29 +163,6 @@ A full-stack car wash management application designed to manage customers, vehic
 `React` `Node.js` `Express.js` `PostgreSQL` `Prisma` `JWT` `Midtrans` `Socket.IO`
 
 </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📸 PhotoshopDKV</h3>
-      <div align="center">
-        <a href="https://github.com/zachrrd/photoshopdkv">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zachrrd&repo=photoshopdkv&theme=transparent&hide_border=true&title_color=4C7F68"/>
-        </a>
-      </div>
-      <br/>
-
-A Laravel-based photography marketplace designed to showcase, manage, and sell digital photography products.
-
-**Core Features**
-- User Authentication
-- Photo & Product Management
-- Category & Stock Management
-- Pricing
-- Photo Upload
-- Marketplace Workflow
-
-**Tech Stack**  
-`PHP` `Laravel` `MySQL` `Blade` `HTML` `CSS` `JavaScript`
-
-</td>
   </tr>
 </table>
 </div>
